@@ -1,6 +1,6 @@
-# CS 4560-61 Projects
+# CS 4560-61 2018-19 Projects
 
 Team | Project Title | App Download | URL
 -----| --------------| -------------| ---
-Team1| Title 1       | app 1        | https:123
+Team1| Title 1       | app 1        | https://...
 
