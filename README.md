@@ -5,4 +5,5 @@ Team Name | Project Title | App Download(APK, URL) | Website | Notes
 Team1| Title 1       | app 1        | https://...| additional comments/instructions
 WillCodeForFood | ETM Advising System | N/A | https://etm.wcfadvise.be/index | Advisor accounts are matched to advisor emails in Student DARS
 LAWD | Twitter Rating | https://testflight.apple.com/join/2LrYV2Ey | http://twitter-rating-94cc6.firebaseapp.com/ | 
-TBD2 | Autonomous Vehicle Machine Vision System | N/A | N/A | The machine vision system will allow the vehicle to see and analyze its surroundings and pass any important information it gathers to the other subsystems of the vehicle.
+TBD2 | Autonomous Vehicle Machine Vision System | N/A | N/A | The machine vision system will allow the vehicle to see and analyze its surroundings and pass any important information it gathers to the other subsystems of the vehicle. 
+Aperture Science | NAO Robot | Win: https://drive.google.com/drive/folders/1TRUlvXukb7JrgP4DIISzhyPdTpugZNNZ Linux: https://drive.google.com/drive/folders/1qqls2MSFBeVLZewtb2C_s0a7O2QJFhpd | N/A | Links to distributable folder, zip and download folder and run executable file. Two platforms currently supported: Win(64-bit)/Linux(x86)
