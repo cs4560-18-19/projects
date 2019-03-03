@@ -10,3 +10,4 @@ Aperture Science | NAO Robot | Win: https://drive.google.com/drive/folders/1TRUl
 OUBB | Autonomous Vehicle Cognitive State Machine | N/A | N/A | The Cognitive State Machine will receive events from the vision system and send appropriate commands to the guidence system.
 Belloq | Medieval Math Mania | N/A | https://game-test-bed.firebaseapp.com/ | Game is still in development. We continually update features and levels, so things will change over time.
 Bits n' Byts | Diabetes Shopping Cart | N/A | http://ec2-18-216-20-53.us-east-2.compute.amazonaws.com:8080/ | An updated version of the app will be loaded before the sprint. Many features are being worked on at the moment.
+TFG | Twitter Rating W/Android App | https://drive.google.com/drive/folders/1ZO-lUQIiphHuaU-DDVSorH7mi8IgMJMi?usp=sharing | 132.235.14.90 | For server connectivity issues, please email tg639014@ohio.edu.  App only allows two entities at the moment, website allows any number greater than zero.
