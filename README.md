@@ -12,3 +12,4 @@ Bits n' Byts | Diabetes Shopping Cart | N/A | http://ec2-18-216-20-53.us-east-2.
 TFG | Twitter Rating W/Android App | https://drive.google.com/drive/folders/1ZO-lUQIiphHuaU-DDVSorH7mi8IgMJMi?usp=sharing | 132.235.14.90 | For server connectivity issues, please email tg639014@ohio.edu.  App only allows two entities at the moment, website allows any number greater than zero.
 TMC | Educational Connections | http://wb800614-001-site1.htempurl.com/ | Any questions contact any of the following emails : wb800614@ohio.edu, eb220012@ohio.edu, ah768712@ohio.edu, rc824314@ohio.edu
 TNB | ETM Advising System | N/A | https://etm-advising.herokuapp.com/ | Generic username/password will be added
+TNW | Smart Kitchen | https://drive.google.com/drive/folders/1dfzYjI5mdcz6_CBzIxCJ2vWqNJs41tDH?usp=sharing | Most bugs are ironed out. Still some bugs present in Bluetooth client portion of application.
